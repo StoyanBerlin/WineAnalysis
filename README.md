@@ -5,10 +5,12 @@ Data Mining, Machine Learning, Visualisation.
 
 
 Technology:
+
 Jupyter Notebook
 Python
 
 Modules:
+
 numpy             
 pandas            
 seaborn           
