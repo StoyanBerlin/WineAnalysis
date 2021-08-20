@@ -6,7 +6,7 @@ Data Mining, Machine Learning, Visualisation.
 
 Technology:
 
-Jupyter Notebook
+Jupyter Notebook,
 Python
 
 Modules:
@@ -15,5 +15,5 @@ numpy
 pandas            
 seaborn           
 scipy.stats       
-matplotlib.pyplot
+matplotlib.pyplot  
 sklearn
